@@ -3,7 +3,9 @@
 ## Pré-requisitos:
 Linux:
   
-`sudo pip3 install pynput`
 - [Python3](https://www.python.org/downloads/)
+
+`sudo pip3 install pynput`
+
 
  
